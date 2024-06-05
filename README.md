@@ -1,3 +1,3 @@
 # deep-learning
 
-Open with github.dev
+Open with github.dev codespace
